@@ -1,0 +1,49 @@
+# Team Name: Beta
+# Team Members: Betty, Edward, Chebet, Tabitha,Faith
+# Description: Basic Maths
+
+## 1. Addition
+a<-569+123
+a
+
+b<-a+234
+b
+
+c<-a+b+712
+c
+
+## 2. Subtraction
+d<-c-b
+d
+
+e<-b-a
+e
+
+f<-e-d-c-b-a
+f
+
+## 3. Multiplication
+
+g<-234*f
+g
+
+h<-c*d
+h
+
+i<-a*925*d
+i
+
+##4. Division
+j<-546/123
+j
+
+K<-999/333
+K
+
+i<-e/f/i
+i
+
+##5. Power
+
+a<-a^10
+a
